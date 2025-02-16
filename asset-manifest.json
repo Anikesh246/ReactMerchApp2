@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactMerchApp2/static/css/main.a8341837.css",
+    "main.js": "/ReactMerchApp2/static/js/main.d39aed76.js",
+    "static/media/merch_img1.jpg": "/ReactMerchApp2/static/media/merch_img1.006dddc7ca43f99da4e1.jpg",
+    "static/media/hoodie.jpg": "/ReactMerchApp2/static/media/hoodie.7d33a8af966f09ec0a91.jpg",
+    "static/media/jacket.jpg": "/ReactMerchApp2/static/media/jacket.85ab56c4bf6adbe1e530.jpg",
+    "static/media/purple t shirt.jpg": "/ReactMerchApp2/static/media/purple t shirt.b21c136c5ae77423872a.jpg",
+    "index.html": "/ReactMerchApp2/index.html",
+    "main.a8341837.css.map": "/ReactMerchApp2/static/css/main.a8341837.css.map",
+    "main.d39aed76.js.map": "/ReactMerchApp2/static/js/main.d39aed76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8341837.css",
+    "static/js/main.d39aed76.js"
+  ]
+}
